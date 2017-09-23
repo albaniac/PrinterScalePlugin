@@ -1,9 +1,9 @@
-# Copyright (c) 2015 Jaime van Kessel
-# The BarbarianPlugin is released under the terms of the AGPLv3 or higher.
+# Copyright (c) 2017 Nirav Patel
+# The PrinterScalePlugin is released under the terms of the AGPLv3 or higher.
 
-from . import BarbarianPlugin
+from . import PrinterScalePlugin
 from UM.i18n import i18nCatalog
-i18n_catalog = i18nCatalog("BarbarianPlugin")
+i18n_catalog = i18nCatalog("PrinterScalePlugin")
 
 
 def getMetaData():
@@ -11,4 +11,4 @@ def getMetaData():
 
 
 def register(app):
-    return {"extension": BarbarianPlugin.BarbarianPlugin()}
+    return {"extension": PrinterScalePlugin.PrinterScalePlugin()}

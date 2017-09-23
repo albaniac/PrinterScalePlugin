@@ -1,7 +1,7 @@
 {
-	"name": "Barbarian plugin",
-	"author": "Jaime van Kessel",
-	"version": "2.2",
+	"name": "Printer Scale plugin",
+	"author": "Nirav Patel",
+	"version": "1.0",
 	"api": 4,
-	"description": "Extension that allows to quickly convert models in inches to metric"
+	"description": "Extension that allows to quickly convert models to a specified scale"
 }
