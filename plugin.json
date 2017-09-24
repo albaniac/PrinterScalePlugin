@@ -1,7 +1,7 @@
 {
-	"name": "Printer Scale plugin",
+	"name": "Printer Scale",
 	"author": "Nirav Patel",
-	"version": "1.0",
+	"version": "1.1",
 	"api": 4,
-	"description": "Extension that allows to quickly convert models to a specified scale"
+	"description": "Scale models automatically on opening."
 }
